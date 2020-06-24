@@ -1,0 +1,19 @@
+.index{
+	background-color: #081116;
+	color: white;
+}
+
+.blue1, .blue2, .blue3, .blue4, .blue6, .blue7{
+	color: #6BBEF0;
+}
+
+.blue5, .black1, .black2{
+	color: white;
+	background-color: #081116;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
